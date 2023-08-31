@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Jangma 
-- 👀 I’m interested in back-end technology 
+- 👀 I’m interested in Mobile Application Developement 
 - 🌱 I’m currently learning C Sharp 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Back-end Technology  
 - 📫 How to reach me ...
 
 <!---
