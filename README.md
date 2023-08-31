@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michael jangma
+- 👋 Hi, I’m Michael Jangma 
 - 👀 I’m interested in back-end technology 
 - 🌱 I’m currently learning C Sharp 
 - 💞️ I’m looking to collaborate on ...
