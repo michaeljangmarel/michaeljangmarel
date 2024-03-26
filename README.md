@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Jangma 
 - 👀 I’m interested in Mobile Application Developement 
-- 🌱 I’m currently learning Node Js 
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on Back-end Technology  
 - 📫 Contact- michaeljangma3@gmail.com
 
