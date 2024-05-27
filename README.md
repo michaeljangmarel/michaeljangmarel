@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Jangma 
-- 👀 I’m interested in Cross Platform Mobile Application Developement 
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on Back-end Technology  
+- 👀 I’m interested in Back-end Technology 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Fullstack Enviroment 
 - 📫 Contact- michaeljangma3@gmail.com
 
 <!---
